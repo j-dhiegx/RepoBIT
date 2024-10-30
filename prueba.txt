@@ -4,4 +4,6 @@ Ejemplo: cd ~/Desktop
 
 Aca iria mas código 
 
-Este nuevo texto debería aparecer en el repo actualizado
+Este nuevo texto debería aparecer en el repo, borre la palabra actualizado para una prueba.
+
+Hoy 30 de octubre estoy creando otro commit para subir a GitHub
